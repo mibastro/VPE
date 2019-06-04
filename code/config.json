@@ -1,0 +1,19 @@
+{
+  "gtsrb":
+  {
+    "data_path": "/JSspace/VPE/db/"
+  },
+  "gtsrb2TT100K":
+  {
+    "data_path": "/JSspace/VPE/db/"
+  },
+  "belga2flickr":
+  {
+    "data_path": "/JSspace/VPE/db/"
+  },
+
+  "belga2toplogo":
+  {
+    "data_path": "/JSspace/VPE/db/"
+  }
+}
