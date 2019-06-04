@@ -20,8 +20,8 @@ Please cite our [paper](https://arxiv.org/abs/1904.08482) in your publications i
 
 ### Usage
  
-This is a PyTorch implementation of "Variational Prototyping-Encoder: One-Shot Learning with Prototypical Images
-" CVPR 2019.
+This is a PyTorch implementation of "Variational Prototyping-Encoder: One-Shot Learning with Prototypical Images" CVPR 2019.
+The code is based on PyTorch 1.0 and python 3.6.
 
 1) Clone the repository. The default folder name is 'VPE'
 
