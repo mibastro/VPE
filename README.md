@@ -10,12 +10,12 @@ We tackle an open-set graphic symbol recognition problem by one-shot classificat
 ### Citation
 Please cite our [paper](https://arxiv.org/abs/1904.08482) in your publications if it helps your research:
     
-    @InProceedings{Kim_2019_CVPR,
-      author = {Kim, Junsik and Oh, Tae-Hyun and Lee, Seokju and Pan, Fei and Kweon, In So},
-      title = {Variational Prototyping-Encoder: One-Shot Learning with Prototypical Images},
-      booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-      month = {June},
-      year = {2019}
+    @inproceedings{kim2019variational,
+        title={Variational Prototyping-Encoder: One-Shot Learning with Prototypical Images},
+        author={Kim, Junsik and Oh, Tae-Hyun and Lee, Seokju and Pan, Fei and Kweon, In So},
+        booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+        pages={9462--9470},
+        year={2019}
     }
 
 ### Usage
